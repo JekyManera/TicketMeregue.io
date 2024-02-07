@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color:black;
 }
 
 img {
@@ -16,4 +16,10 @@ img {
     font-family: "Kanit";
     text-align: center;
     color:white
+  }
+
+  footer {
+    text-align: center;
+    bottom : 20 px; 
+    color:white;
   }
