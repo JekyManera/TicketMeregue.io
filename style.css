@@ -1,23 +1,11 @@
 body{
     background-color:black;
 }
-
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
-  h1 {
-    font-family: "Kanit";
-    text-align: center;
-    color:white
-  }
-  h2 {
-    font-family: "Kanit";
-    text-align: center;
-    color:white
-  }
-
   footer {
     text-align: center;
     bottom : 20 px; 
